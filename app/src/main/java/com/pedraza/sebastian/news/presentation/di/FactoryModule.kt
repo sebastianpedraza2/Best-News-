@@ -2,8 +2,7 @@ package com.pedraza.sebastian.news.presentation.di
 
 import android.app.Application
 import com.pedraza.sebastian.news.domain.usecase.GetNewsHeadlinesUseCase
-import com.pedraza.sebastian.news.presentation.viewmodel.NewsViewModel
-import com.pedraza.sebastian.news.presentation.viewmodel.NewsViewModelFactory
+import com.pedraza.sebastian.news.presentation.viewmodel.news.NewsViewModelFactory
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

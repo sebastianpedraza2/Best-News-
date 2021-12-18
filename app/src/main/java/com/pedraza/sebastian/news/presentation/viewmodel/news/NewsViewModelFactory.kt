@@ -1,4 +1,4 @@
-package com.pedraza.sebastian.news.presentation.viewmodel
+package com.pedraza.sebastian.news.presentation.viewmodel.news
 
 import android.app.Application
 import androidx.lifecycle.ViewModel

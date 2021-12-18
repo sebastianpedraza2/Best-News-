@@ -7,8 +7,8 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.pedraza.sebastian.news.databinding.ActivityMainBinding
 import com.pedraza.sebastian.news.presentation.adapter.NewsAdapter
-import com.pedraza.sebastian.news.presentation.viewmodel.NewsViewModel
-import com.pedraza.sebastian.news.presentation.viewmodel.NewsViewModelFactory
+import com.pedraza.sebastian.news.presentation.viewmodel.news.NewsViewModel
+import com.pedraza.sebastian.news.presentation.viewmodel.news.NewsViewModelFactory
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
